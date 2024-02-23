@@ -1,6 +1,17 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome To My Profile Profile 👋✨
+</h3> 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D1B1F7&random=false&width=435&lines=+I'm+Shahd+Osama+;I'm+A+CS+Student+;And++Backend+Developer)](https://git.io/typing-svg)
+
+<p>
+  👩🏽‍💻 I'm a Junior at Faculty of Computers & Informatics at Suez Canal University.
+  🌱 I'm currently learning Computer Science.
+  📫 How to reach me:  shahd.osama161@gmail.com
+  💻 I'm a competitive programmer at Codeforces
+</p>
 <!--
+
 **shahd-osama/shahd-osama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
