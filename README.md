@@ -2,11 +2,11 @@
   Welcome To My Profile 👋✨
 </h3> 
  <p align ="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D1B1F7&random=false&width=435&lines=+I'm+Shahd+Osama+;I'm+A+CS+Student+;And++Backend+Developer" alt="Typing SVG" /></a> </h2>
- <p>
+ <p font-size = "20px">
    <ul>
   <li>👩🏽‍💻I'm a Junior at Faculty of Computers And Informatics At Suez Canal University.</li>
    <li>🌱 I'm currently learning Computer Science.</li>
-   <li>📫 How to reach me:  <a href="shahd.osama161@gmail.com"> Shahd Øsama </a> </li>
+   <li>📫 How to reach me:  <a href="shahd.osama161@gmail.com"> Shahd Osama </a> </li>
   <li>💻 I'm a competitive programmer at Codeforces</li>
  </ul>
  </p>
