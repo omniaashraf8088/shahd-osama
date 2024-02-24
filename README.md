@@ -7,7 +7,7 @@
    <ul>
   <li>👩🏽‍💻I'm a Junior at Faculty of Computers And Informatics At Suez Canal University.</li>
    <li>🌱 I'm currently learning Computer Science.</li>
-   <li>📫 How to reach me:  <a href="shahd.osama161@gmail.com"> Shahd Osama </a> </li>
+   <li>📫 How to reach me: shahd.osama161@gmail.com </li>
   <li>💻 I'm a competitive programmer at Codeforces</li>
  </ul>
  </p>
