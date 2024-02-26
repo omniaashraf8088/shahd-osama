@@ -17,7 +17,7 @@
  📫 How to reach me: **shahd.osama161@gmail.com** 
  
  </li>
- <li>💻 I'm a competitive programmer at Codeforces</li>
+ <li>💻 I'm a competitive programmer at <b>Codeforces</b></li>
 </ul>
  </p>
  <br/>
