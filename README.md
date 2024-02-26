@@ -1,10 +1,10 @@
 <h1 align ="center">✨Welcome To My Profile✨
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </h1> 
 <br/>
 
 <p align ="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1000&color=F76CB3&random=false&width=435&center=true&lines=++I'm+Shahd+Osama+;++%2C+I'm+a+CS+Student+;+%2C+And+Backend+Developer" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
 <br>
 
