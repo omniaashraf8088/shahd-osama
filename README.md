@@ -1,11 +1,13 @@
 <h1 align ="center">✨Welcome To My Profile✨
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </h1> 
 <br/>
+
 <p align ="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1000&color=F76CB3&random=false&width=435&center=true&lines=++I'm+Shahd+Osama+;++%2C+I'm+a+CS+Student+;+%2C+And+Backend+Developer" alt="Typing SVG" /></a>
 </p>
- <br/> 
- 
+<br>
+
   <p align ="left">
 
    ## 💭About Me : 
@@ -57,11 +59,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50"  />  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/> &nbsp;&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50"/>
           
           
  </p>
  <br/>
+ 
  
  <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-osama&layout=donut-vertical)] 
        (https://github.com/anuraghazra/github-readme-stats)  
