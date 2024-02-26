@@ -1,28 +1,38 @@
-<h1 align ="center">
-     ✨ Welcome To My Profile ✨
+<h1 align ="center">✨Welcome To My Profile✨
 </h1> 
- <br/>
- <br/>
- <p align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F76592&random=false&width=435&lines=+I'm+Shahd+%C3%98sama;+I'm+a+CS+Student+;+And+Backend+Developer+" alt="Typing SVG" /></a><p >
+<br/>
+<p align ="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1000&color=F76CB3&random=false&width=435&center=true&lines=++I'm+Shahd+Osama+;++%2C+I'm+a+CS+Student+;+%2C+And+Backend+Developer" alt="Typing SVG" /></a>
+</p>
  <br/> 
-  
-  <ul>
-   <li>👩🏽‍💻I'm a Junior at Faculty of Computers And Informatics At Suez Canal University.</li>
-    <li>🌱 I'm currently learning Computer Science.</li>
-     <li>📫 How to reach me: shahd.osama161@gmail.com </li>
-   <li>💻 I'm a competitive programmer at Codeforces</li>
-  </ul>
+ 
+  <p align ="left">
+
+   ## 💭About Me : 
+<ul>
+<li>👩🏽‍💻I'm a Junior at Faculty of Computers And Informatics At Suez Canal University.</li>
+<li>🌱 I'm currently learning Computer Science.</li>
+ <li>        
+         
+ 📫 How to reach me: **shahd.osama161@gmail.com** 
+ 
+ </li>
+ <li>💻 I'm a competitive programmer at Codeforces</li>
+</ul>
  </p>
  <br/>
- 
- <!-- Profile status -->
- <div align ="center" >
-   
-  ![](https://github-readme-stats.vercel.app/api?username=shahd-osama&show_icons=true&theme=dracula)
-  
- <br/>
  <hr/> 
- </div>
+ <br/>
+ <!-- Profile status -->
+ 
+ ## 📈Status :
+ <div align ="center" >
+      
+  ![](https://github-readme-stats.vercel.app/api?username=shahd-osama&show_icons=true&theme=dracula)
+ <br/>
+
+ </div> 
+ <hr/> 
  <br/>
     
 
